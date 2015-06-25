@@ -1,0 +1,16 @@
+G:\Programming\Programming Graphics\CG_Task4\CG_Task4\bin\x86\Debug\CG_Task4.exe
+G:\Programming\Programming Graphics\CG_Task4\CG_Task4\bin\x86\Debug\CG_Task4.pdb
+G:\Programming\Programming Graphics\CG_Task4\CG_Task4\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Programming\Programming Graphics\CG_Task4\CG_Task4\obj\x86\Debug\CG_Task4.Form1.resources
+G:\Programming\Programming Graphics\CG_Task4\CG_Task4\obj\x86\Debug\CG_Task4.Properties.Resources.resources
+G:\Programming\Programming Graphics\CG_Task4\CG_Task4\obj\x86\Debug\CG_Task4.csproj.GenerateResource.Cache
+G:\Programming\Programming Graphics\CG_Task4\CG_Task4\obj\x86\Debug\CG_Task4.exe
+G:\Programming\Programming Graphics\CG_Task4\CG_Task4\obj\x86\Debug\CG_Task4.pdb
+G:\Programming\Programming Graphics\Car racing\CG_Task4\obj\x86\Debug\CG_Task4.exe
+G:\Programming\Programming Graphics\Car racing\CG_Task4\obj\x86\Debug\CG_Task4.pdb
+G:\Programming\Programming Graphics\Car racing\CG_Task4\bin\x86\Debug\CG_Task4.exe
+G:\Programming\Programming Graphics\Car racing\CG_Task4\bin\x86\Debug\CG_Task4.pdb
+G:\Programming\Programming Graphics\Car racing\CG_Task4\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Programming\Programming Graphics\Car racing\CG_Task4\obj\x86\Debug\CG_Task4.Form1.resources
+G:\Programming\Programming Graphics\Car racing\CG_Task4\obj\x86\Debug\CG_Task4.Properties.Resources.resources
+G:\Programming\Programming Graphics\Car racing\CG_Task4\obj\x86\Debug\CG_Task4.csproj.GenerateResource.Cache

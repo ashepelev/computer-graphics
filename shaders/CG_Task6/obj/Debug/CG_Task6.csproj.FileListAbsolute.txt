@@ -1,0 +1,49 @@
+C:\Users\olivertod\Documents\Visual Studio 2008\Projects\CG_Task6\Backup\CG_Task6\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\olivertod\Documents\Visual Studio 2008\Projects\CG_Task6\Backup\CG_Task6\obj\Debug\CG_Task6.Properties.Resources.resources
+C:\Users\olivertod\Documents\Visual Studio 2008\Projects\CG_Task6\Backup\CG_Task6\obj\Debug\CG_Task6.csproj.GenerateResource.Cache
+C:\Users\olivertod\Documents\Visual Studio 2008\Projects\CG_Task6\Backup\CG_Task6\bin\Debug\CG_Task6.exe
+C:\Users\olivertod\Documents\Visual Studio 2008\Projects\CG_Task6\Backup\CG_Task6\bin\Debug\CG_Task6.pdb
+C:\Users\olivertod\Documents\Visual Studio 2008\Projects\CG_Task6\Backup\CG_Task6\obj\Debug\CG_Task6.exe
+C:\Users\olivertod\Documents\Visual Studio 2008\Projects\CG_Task6\Backup\CG_Task6\obj\Debug\CG_Task6.pdb
+E:\CG_Task6\Backup\CG_Task6\obj\Debug\CG_Task6.exe
+E:\CG_Task6\Backup\CG_Task6\obj\Debug\CG_Task6.pdb
+E:\CG_Task6\Backup\CG_Task6\bin\Debug\CG_Task6.exe
+E:\CG_Task6\Backup\CG_Task6\bin\Debug\CG_Task6.pdb
+E:\CG_Task6\Backup\CG_Task6\obj\Debug\ResolveAssemblyReference.cache
+E:\CG_Task6\Backup\CG_Task6\obj\Debug\CG_Task6.Properties.Resources.resources
+E:\CG_Task6\Backup\CG_Task6\obj\Debug\CG_Task6.csproj.GenerateResource.Cache
+C:\Users\olivertod\Desktop\CG_Task6\Backup\CG_Task6\obj\Debug\CG_Task6.exe
+C:\Users\olivertod\Desktop\CG_Task6\Backup\CG_Task6\obj\Debug\CG_Task6.pdb
+C:\Users\olivertod\Desktop\CG_Task6\Backup\CG_Task6\bin\Debug\CG_Task6.exe
+C:\Users\olivertod\Desktop\CG_Task6\Backup\CG_Task6\bin\Debug\CG_Task6.pdb
+C:\Users\olivertod\Desktop\CG_Task6\Backup\CG_Task6\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\olivertod\Desktop\CG_Task6\Backup\CG_Task6\obj\Debug\CG_Task6.Properties.Resources.resources
+C:\Users\olivertod\Desktop\CG_Task6\Backup\CG_Task6\obj\Debug\CG_Task6.csproj.GenerateResource.Cache
+G:\CG_Task6\Backup\CG_Task6\obj\Debug\CG_Task6.exe
+G:\CG_Task6\Backup\CG_Task6\obj\Debug\CG_Task6.pdb
+G:\CG_Task6\Backup\CG_Task6\bin\Debug\CG_Task6.exe
+G:\CG_Task6\Backup\CG_Task6\bin\Debug\CG_Task6.pdb
+G:\CG_Task6\Backup\CG_Task6\obj\Debug\ResolveAssemblyReference.cache
+G:\CG_Task6\Backup\CG_Task6\obj\Debug\CG_Task6.Properties.Resources.resources
+G:\CG_Task6\Backup\CG_Task6\obj\Debug\CG_Task6.csproj.GenerateResource.Cache
+C:\Users\olivertod\Desktop\Backup\CG_Task6\obj\Debug\CG_Task6.exe
+C:\Users\olivertod\Desktop\Backup\CG_Task6\obj\Debug\CG_Task6.pdb
+C:\Users\olivertod\Desktop\Backup\CG_Task6\bin\Debug\CG_Task6.exe
+C:\Users\olivertod\Desktop\Backup\CG_Task6\bin\Debug\CG_Task6.pdb
+C:\Users\olivertod\Desktop\Backup\CG_Task6\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\olivertod\Desktop\Backup\CG_Task6\obj\Debug\CG_Task6.Properties.Resources.resources
+C:\Users\olivertod\Desktop\Backup\CG_Task6\obj\Debug\CG_Task6.csproj.GenerateResource.Cache
+G:\CG_Task7\CG_Task6\obj\Debug\CG_Task6.exe
+G:\CG_Task7\CG_Task6\obj\Debug\CG_Task6.pdb
+G:\CG_Task7\CG_Task6\obj\Debug\ResolveAssemblyReference.cache
+G:\CG_Task7\CG_Task6\obj\Debug\CG_Task6.Properties.Resources.resources
+G:\CG_Task7\CG_Task6\obj\Debug\CG_Task6.csproj.GenerateResource.Cache
+G:\CG_Task7\CG_Task6\bin\Debug\CG_Task6.exe
+G:\CG_Task7\CG_Task6\bin\Debug\CG_Task6.pdb
+G:\Programming\Programming Graphics\CG_Task7\CG_Task6\obj\Debug\CG_Task6.exe
+G:\Programming\Programming Graphics\CG_Task7\CG_Task6\obj\Debug\CG_Task6.pdb
+G:\Programming\Programming Graphics\CG_Task7\CG_Task6\bin\Debug\CG_Task6.exe
+G:\Programming\Programming Graphics\CG_Task7\CG_Task6\bin\Debug\CG_Task6.pdb
+G:\Programming\Programming Graphics\CG_Task7\CG_Task6\obj\Debug\ResolveAssemblyReference.cache
+G:\Programming\Programming Graphics\CG_Task7\CG_Task6\obj\Debug\CG_Task6.Properties.Resources.resources
+G:\Programming\Programming Graphics\CG_Task7\CG_Task6\obj\Debug\CG_Task6.csproj.GenerateResource.Cache

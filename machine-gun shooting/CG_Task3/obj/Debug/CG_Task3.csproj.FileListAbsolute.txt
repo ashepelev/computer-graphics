@@ -1,0 +1,50 @@
+C:\Users\olivertod\Documents\Visual Studio 2008\Projects\CG_Task3\CG_Task3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\olivertod\Documents\Visual Studio 2008\Projects\CG_Task3\CG_Task3\obj\Debug\CG_Task3.Form1.resources
+C:\Users\olivertod\Documents\Visual Studio 2008\Projects\CG_Task3\CG_Task3\obj\Debug\CG_Task3.Properties.Resources.resources
+C:\Users\olivertod\Documents\Visual Studio 2008\Projects\CG_Task3\CG_Task3\obj\Debug\CG_Task3.csproj.GenerateResource.Cache
+C:\Users\olivertod\Documents\Visual Studio 2008\Projects\CG_Task3\CG_Task3\bin\Debug\CG_Task3.exe
+C:\Users\olivertod\Documents\Visual Studio 2008\Projects\CG_Task3\CG_Task3\bin\Debug\CG_Task3.pdb
+C:\Users\olivertod\Documents\Visual Studio 2008\Projects\CG_Task3\CG_Task3\obj\Debug\CG_Task3.exe
+C:\Users\olivertod\Documents\Visual Studio 2008\Projects\CG_Task3\CG_Task3\obj\Debug\CG_Task3.pdb
+C:\Users\OliverTod\Desktop\CG_Task3\CG_Task3\obj\Debug\CG_Task3.exe
+C:\Users\OliverTod\Desktop\CG_Task3\CG_Task3\obj\Debug\CG_Task3.pdb
+C:\Users\OliverTod\Desktop\CG_Task3\CG_Task3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\OliverTod\Desktop\CG_Task3\CG_Task3\obj\Debug\CG_Task3.Form1.resources
+C:\Users\OliverTod\Desktop\CG_Task3\CG_Task3\obj\Debug\CG_Task3.Properties.Resources.resources
+C:\Users\OliverTod\Desktop\CG_Task3\CG_Task3\obj\Debug\CG_Task3.csproj.GenerateResource.Cache
+C:\Users\OliverTod\Desktop\CG_Task3\CG_Task3\bin\Debug\CG_Task3.exe
+C:\Users\OliverTod\Desktop\CG_Task3\CG_Task3\bin\Debug\CG_Task3.pdb
+G:\CG_Task3\CG_Task3\obj\Debug\CG_Task3.exe
+G:\CG_Task3\CG_Task3\obj\Debug\CG_Task3.pdb
+G:\CG_Task3\CG_Task3\bin\Debug\CG_Task3.exe
+G:\CG_Task3\CG_Task3\bin\Debug\CG_Task3.pdb
+G:\CG_Task3\CG_Task3\obj\Debug\ResolveAssemblyReference.cache
+G:\CG_Task3\CG_Task3\obj\Debug\CG_Task3.Form1.resources
+G:\CG_Task3\CG_Task3\obj\Debug\CG_Task3.Properties.Resources.resources
+G:\CG_Task3\CG_Task3\obj\Debug\CG_Task3.csproj.GenerateResource.Cache
+D:\CG_Task3\CG_Task3\obj\Debug\CG_Task3.exe
+D:\CG_Task3\CG_Task3\obj\Debug\CG_Task3.pdb
+D:\CG_Task3\CG_Task3\bin\Debug\CG_Task3.exe
+D:\CG_Task3\CG_Task3\bin\Debug\CG_Task3.pdb
+D:\CG_Task3\CG_Task3\obj\Debug\ResolveAssemblyReference.cache
+D:\CG_Task3\CG_Task3\obj\Debug\CG_Task3.Form1.resources
+D:\CG_Task3\CG_Task3\obj\Debug\CG_Task3.Properties.Resources.resources
+D:\CG_Task3\CG_Task3\obj\Debug\CG_Task3.csproj.GenerateResource.Cache
+F:\CG_Task3\CG_Task3\obj\Debug\CG_Task3.exe
+F:\CG_Task3\CG_Task3\obj\Debug\CG_Task3.pdb
+F:\CG_Task3\CG_Task3\bin\Debug\CG_Task3.exe
+F:\CG_Task3\CG_Task3\bin\Debug\CG_Task3.pdb
+F:\CG_Task3\CG_Task3\obj\Debug\ResolveAssemblyReference.cache
+F:\CG_Task3\CG_Task3\obj\Debug\CG_Task3.Form1.resources
+F:\CG_Task3\CG_Task3\obj\Debug\CG_Task3.Properties.Resources.resources
+F:\CG_Task3\CG_Task3\obj\Debug\CG_Task3.csproj.GenerateResource.Cache
+F:\Programming\Programming Graphics\CG_Task3\CG_Task3\obj\Debug\CG_Task3.exe
+F:\Programming\Programming Graphics\CG_Task3\CG_Task3\obj\Debug\CG_Task3.pdb
+G:\Programming\Programming Graphics\CG_Task3\CG_Task3\obj\Debug\CG_Task3.exe
+G:\Programming\Programming Graphics\CG_Task3\CG_Task3\obj\Debug\CG_Task3.pdb
+G:\Programming\Programming Graphics\CG_Task3\CG_Task3\bin\Debug\CG_Task3.exe
+G:\Programming\Programming Graphics\CG_Task3\CG_Task3\bin\Debug\CG_Task3.pdb
+G:\Programming\Programming Graphics\CG_Task3\CG_Task3\obj\Debug\ResolveAssemblyReference.cache
+G:\Programming\Programming Graphics\CG_Task3\CG_Task3\obj\Debug\CG_Task3.Form1.resources
+G:\Programming\Programming Graphics\CG_Task3\CG_Task3\obj\Debug\CG_Task3.Properties.Resources.resources
+G:\Programming\Programming Graphics\CG_Task3\CG_Task3\obj\Debug\CG_Task3.csproj.GenerateResource.Cache
